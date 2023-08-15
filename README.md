@@ -1,4 +1,4 @@
-<h3 align="center">你好，我是跃迁/chazzjimel 👋 | Hello there, I'm chazzjimel 👋</h3>
+<h3 align="center">你好，我是跃迁 👋 | Hello there, I'm chazzjimel 👋</h3>
 <br>
 <p align="center">
   Hi, I'm chazzjimel, a programmer who learned coding through late-night Googling and many cups of coffee. I'm a Jack of all trades but a master of Python. Currently focusing on AI, and learning Python, model training, and model fine-tuning.
