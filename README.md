@@ -41,15 +41,17 @@
 
 <h2 align="center">Repositories</h2>
 
-<div align="center">
-  <a href="https://github.com/chazzjimel/WeChat-AIChatbot-WinOnly" title="WeChat-AIChatbot-WinOnly"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=chazzjimel&repo=WeChat-AIChatbot-WinOnly&theme=gotham"></a>
-  <a href="https://github.com/chazzjimel/midjourney_turbo" title="midjourney_turbo"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=chazzjimel&repo=midjourney_turbo&theme=gotham"></a>
-  <br>
-  <a href="https://github.com/chazzjimel/newgpt_turbo" title="newgpt_turbo"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=chazzjimel&repo=newgpt_turbo&theme=gotham"></a>
-  <a href="https://github.com/chazzjimel/chatgpt-on-wechat" title="chatgpt-on-wechat"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=chazzjimel&repo=chatgpt-on-wechat&theme=gotham"></a>
-</div>
+<p width="100%" align="center">
+  <a align="left" href="https://github.com/chazzjimel/WeChat-AIChatbot-WinOnly" title="WeChat-AIChatbot-WinOnly"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=chazzjimel&repo=WeChat-AIChatbot-WinOnly&theme=gotham"></a>
+  <a align="right" href="https://github.com/chazzjimel/midjourney_turbo" title="midjourney_turbo"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=chazzjimel&repo=midjourney_turbo&theme=gotham"></a>
+</p>
+<br><br>
+<p width="100%" align="center">
+  <a align="left" href="https://github.com/chazzjimel/newgpt_turbo" title="newgpt_turbo"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=chazzjimel&repo=newgpt_turbo&theme=gotham"></a>
+  <a align="right" href="https://github.com/chazzjimel/chatgpt-on-wechat" title="chatgpt-on-wechat"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=chazzjimel&repo=chatgpt-on-wechat&theme=gotham"></a>
+</p>
 
-<h4 align="center"><a href="https://github.com/chazzjimel?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a></h4>
+<h4 align="center"><a href=https://github.com/chazzjimel?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a></h4>
 
 <p align = "center">
     ⭐️ From <a href="https://github.com/chazzjimel/">chazzjimel</a>
