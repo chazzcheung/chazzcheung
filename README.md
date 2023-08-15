@@ -1,28 +1,37 @@
-<h3 align="center">Hello there, I'm 跃迁/chazzjimel 👋</h3>
+<h3 align="center">你好，我是跃迁/chazzjimel 👋 | Hello there, I'm 跃迁/chazzjimel 👋</h3>
 <br>
 <p align="center">
-  Hi, I'm 跃迁/chazzjimel, a self-taught junior programmer. I have a little bit of everything, with no specialization, currently mainly using Python, focusing on the field of artificial intelligence, and learning Python, model training, and model fine-tuning.
+  Hi, I'm 跃迁/chazzjimel, a programmer who learned coding through late-night Googling and many cups of coffee. I'm a Jack of all trades but a master of Python. Currently focusing on AI, and learning Python, model training, and model fine-tuning.
+  <br>
+  你好，我是跃迁/chazzjimel，一个通过深夜 Google 和许多杯咖啡自学编程的人。我什么都会一点，但 Python 最拿手。现在主要关注人工智能领域，正在学习 Python、模型训练、模型微调。
   <br>
   <br>
-  🎓 A self-learner
+  ☕ 通过深夜 Google 和许多杯咖啡自学编程 | Learned coding through late-night Googling and many cups of coffee
   <br>
-  💻 Currently working on Python
+  💻 Python 最拿手，什么都会一点 | Jack of all trades but a master of Python
   <br>
-  🔬 Focusing on artificial intelligence
+  🔬 关注人工智能领域 | Focusing on AI
   <br>
-  📚 Currently learning Python, model training, and model fine-tuning
+  📚 正在学习 Python、模型训练、模型微调 | Learning Python, model training, model fine-tuning
   <br>
-  📫 How to reach me: <a href="mailto:chazzjimel@gmail.com">chazzjimel@gmail.com</a>
+  📫 如何联系我: <a href="mailto:chazzjimel@gmail.com">chazzjimel@gmail.com</a>
 </p>
 
 <hr>
 
-<h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
+<h2 align="center">编程语言 & 框架 & 工具 & 能力 | Programming Languages & Frameworks & Tools & Skills</h2>
 
 <p align="center">
-  <code><img title="Python" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/python.svg"></code>
+  <code><img title="Python" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/python-original.svg"></code>
   <code><img title="Docker" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/docker.svg"></code>
-  <code><img title="MySQL" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/mysql.svg"></code>
+  <code><img title="GitHub" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/github.svg"></code>
+  <code><img title="Android" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/android.svg"></code>
+  <code><img title="Chrome" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/chrome.svg"></code>
+  <code><img title="C++" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cpp.svg"></code>
+  <code><img title="Gulp" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/gulp.svg"></code>
+  <code><img title="Instagram" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"></code>
+  <code><img title="Java" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/java-original.svg"></code>
+  <code><img title="JSON" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/json.svg"></code>
 </p>
 
 <hr>
