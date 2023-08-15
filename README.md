@@ -23,7 +23,6 @@
 
 <p align="center">
   <code><img title="Python" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/python-original.svg"></code>
-  <code><img title="Docker" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/docker.svg"></code>
   <code><img title="GitHub" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/github.svg"></code>
   <code><img title="Android" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/android.svg"></code>
   <code><img title="Chrome" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/chrome.svg"></code>
