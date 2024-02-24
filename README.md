@@ -14,7 +14,7 @@
   <br>
   📚 正在学习 Python、模型训练、模型微调 | Learning Python, model training, model fine-tuning
   <br>
-  📫 如何联系我: <a href="mailto:chazzjimel@gmail.com">chazzjimel@gmail.com</a>
+  📫 如何联系我: <a href="mailto:cheungchazz@gmail.com">chazzjimel@gmail.com</a>
 </p>
 
 <hr>
