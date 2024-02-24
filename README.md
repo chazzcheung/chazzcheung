@@ -1,7 +1,7 @@
-<h3 align="center">你好，我是跃迁 👋 | Hello there, I'm chazzcheung 👋</h3>
+<h3 align="center">你好，我是跃迁 👋 | Hello there, I'm cheungchazz 👋</h3>
 <br>
 <p align="center">
-  Hi, I'm chazzcheung, a programmer who learned coding through late-night Googling and many cups of coffee. I'm a Jack of all trades but a master of Python. Currently focusing on AI, and learning Python, model training, and model fine-tuning.
+  Hi, I'm cheungchazz, a programmer who learned coding through late-night Googling and many cups of coffee. I'm a Jack of all trades but a master of Python. Currently focusing on AI, and learning Python, model training, and model fine-tuning.
   <br>
   你好，我是跃迁，一个通过深夜 Google 和许多杯咖啡自学编程的人。我什么都会一点，但 Python 最拿手。现在主要关注人工智能领域，正在学习 Python、模型训练、模型微调。
   <br>
@@ -35,19 +35,19 @@
 
 <hr>
 
-<img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=chazzcheung&show_icons=true&theme=gotham">
+<img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=cheungchazz&show_icons=true&theme=gotham">
 
 <hr>
 
 <h2 align="center">Repositories</h2>
 
 <p width="100%" align="center">
-  <a align="left" href="https://github.com/chazzcheung/WeChat-AIChatbot-WinOnly" title="WeChat-AIChatbot-WinOnly"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=chazzcheung&repo=WeChat-AIChatbot-WinOnly&theme=gotham"></a>
-  <a align="right" href="https://github.com/chazzcheung/midjourney_turbo" title="midjourney_turbo"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=chazzcheung&repo=midjourney_turbo&theme=gotham"></a>
+  <a align="left" href="https://github.com/cheungchazz/WeChat-AIChatbot-WinOnly" title="WeChat-AIChatbot-WinOnly"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=cheungchazz&repo=WeChat-AIChatbot-WinOnly&theme=gotham"></a>
+  <a align="right" href="https://github.com/cheungchazz/midjourney_turbo" title="midjourney_turbo"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=cheungchazz&repo=midjourney_turbo&theme=gotham"></a>
 </p>
 <br><br>
 <p width="100%" align="center">
-  <a align="left" href="https://github.com/chazzcheung/cow_plugin_kimichat" title="cow_plugin_kimichat"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=chazzcheung&repo=cow_plugin_kimichat&theme=gotham"></a>
+  <a align="left" href="https://github.com/cheungchazz/cow_plugin_kimichat" title="cow_plugin_kimichat"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=cheungchazz&repo=cow_plugin_kimichat&theme=gotham"></a>
   <a align="right" href="https://github.com/chazzcheung/newgpt_turbo" title="newgpt_turbo"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=chazzcheung&repo=newgpt_turbo&theme=gotham"></a>
 </p>
 
