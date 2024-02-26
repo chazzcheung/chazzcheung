@@ -1,7 +1,7 @@
-<h3 align="center">你好，我是跃迁 👋 | Hello there, I'm cheungchazz 👋</h3>
+<h3 align="center">你好，我是跃迁 👋 | Hello there, I'm cheung chazz 👋</h3>
 <br>
 <p align="center">
-  Hi, I'm cheungchazz, a programmer who learned coding through late-night Googling and many cups of coffee. I'm a Jack of all trades but a master of Python. Currently focusing on AI, and learning Python, model training, and model fine-tuning.
+  Hi, I'm cheung chazz, a programmer who learned coding through late-night Googling and many cups of coffee. I'm a Jack of all trades but a master of Python. Currently focusing on AI, and learning Python, model training, and model fine-tuning.
   <br>
   你好，我是跃迁，一个通过深夜 Google 和许多杯咖啡自学编程的人。我什么都会一点，但 Python 最拿手。现在主要关注人工智能领域，正在学习 Python、模型训练、模型微调。
   <br>
