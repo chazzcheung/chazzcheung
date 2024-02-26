@@ -48,7 +48,7 @@
 <br><br>
 <p width="100%" align="center">
   <a align="left" href="https://github.com/cheungchazz/cow_plugin_kimichat" title="cow_plugin_kimichat"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=cheungchazz&repo=cow_plugin_kimichat&theme=gotham"></a>
-  <a align="right" href="https://github.com/chazzcheung/newgpt_turbo" title="newgpt_turbo"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=chazzcheung&repo=newgpt_turbo&theme=gotham"></a>
+  <a align="right" href="https://github.com/cheungchazz/newgpt_turbo" title="newgpt_turbo"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=chazzcheung&repo=newgpt_turbo&theme=gotham"></a>
 </p>
 
 <h4 align="center"><a href=https://github.com/chazzcheung?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a></h4>
